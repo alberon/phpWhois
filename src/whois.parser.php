@@ -81,7 +81,7 @@ function generic_parser_a_blocks($rawdata, $translate, &$disclaimer)
     $newblock = false;
     $hasdata = false;
     $block = array();
-    $blocks = false;
+    $blocks = array();
     $gkey = 'main';
     $dend = false;
 
